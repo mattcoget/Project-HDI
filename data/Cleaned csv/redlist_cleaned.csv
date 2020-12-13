@@ -1,0 +1,196 @@
+,Country,Red List
+0,Afghanistan,0.837
+1,Albania,0.844
+2,Algeria,0.904
+3,Andorra,0.917
+4,Angola,0.934
+5,Antigua and Barbuda,0.888
+6,Argentina,0.861
+7,Armenia,0.846
+8,Australia,0.825
+9,Austria,0.895
+10,Azerbaijan,0.912
+11,Bahamas,0.702
+12,Bahrain,0.844
+13,Bangladesh,0.76
+14,Barbados,0.914
+15,Belarus,0.972
+16,Belgium,0.986
+17,Belize,0.743
+18,Benin,0.91
+19,Bhutan,0.799
+20,Bolivia (Plurinational State of),0.87
+21,Bosnia and Herzegovina,0.905
+22,Botswana,0.979
+23,Brazil,0.902
+24,Brunei Darussalam,0.825
+25,Bulgaria,0.944
+26,Burkina Faso,0.988
+27,Burundi,0.921
+28,Cabo Verde,0.89
+29,Cambodia,0.816
+30,Cameroon,0.836
+31,Canada,0.969
+32,Central African Republic,0.943
+33,Chad,0.92
+34,Chile,0.755
+35,China,0.744
+36,Colombia,0.737
+37,Comoros,0.764
+38,Congo,0.983
+39,Congo (Democratic Republic of the),0.891
+40,Costa Rica,0.818
+41,Croatia,0.901
+42,Cuba,0.651
+43,Cyprus,0.983
+44,Czechia,0.971
+45,Côte d'Ivoire,0.888
+46,Denmark,0.972
+47,Djibouti,0.816
+48,Dominica,0.672
+49,Dominican Republic,0.734
+50,Ecuador,0.679
+51,Egypt,0.909
+52,El Salvador,0.826
+53,Equatorial Guinea,0.813
+54,Eritrea,0.907
+55,Estonia,0.986
+56,Eswatini (Kingdom of),0.817
+57,Ethiopia,0.842
+58,Fiji,0.669
+59,Finland,0.99
+60,France,0.873
+61,Gabon,0.961
+62,Gambia,0.981
+63,Georgia,0.864
+64,Germany,0.983
+65,Ghana,0.844
+66,Greece,0.848
+67,Grenada,0.763
+68,Guatemala,0.721
+69,Guinea,0.894
+70,Guinea-Bissau,0.96
+71,Guyana,0.923
+72,Haiti,0.721
+73,Honduras,0.743
+74,"Hong Kong, China (SAR)",0.821
+75,Hungary,0.93
+76,Iceland,0.861
+77,India,0.678
+78,Indonesia,0.754
+79,Iran (Islamic Republic of),0.837
+80,Iraq,0.799
+81,Ireland,0.925
+82,Israel,0.758
+83,Italy,0.902
+84,Jamaica,0.724
+85,Japan,0.781
+86,Jordan,0.963
+87,Kazakhstan,0.871
+88,Kenya,0.797
+89,Kiribati,0.76
+90,Korea (Democratic People's Rep. of),0.899
+91,Korea (Republic of),0.733
+92,Kuwait,0.845
+93,Kyrgyzstan,0.984
+94,Lao People's Democratic Republic,0.81
+95,Latvia,0.988
+96,Lebanon,0.961
+97,Lesotho,0.953
+98,Liberia,0.887
+99,Libya,0.969
+100,Liechtenstein,0.993
+101,Lithuania,0.989
+102,Luxembourg,0.987
+103,Madagascar,0.788
+104,Malawi,0.808
+105,Malaysia,0.677
+106,Maldives,0.843
+107,Mali,0.981
+108,Malta,0.883
+109,Marshall Islands,0.839
+110,Mauritania,0.977
+111,Mauritius,0.396
+112,Mexico,0.677
+113,Micronesia (Federated States of),0.686
+114,Moldova (Republic of),0.969
+115,Monaco,0.759
+116,Mongolia,0.948
+117,Montenegro,0.813
+118,Morocco,0.887
+119,Mozambique,0.825
+120,Myanmar,0.806
+121,Namibia,0.966
+122,Nauru,0.772
+123,Nepal,0.825
+124,Netherlands,0.943
+125,New Zealand,0.626
+126,Nicaragua,0.852
+127,Niger,0.936
+128,Nigeria,0.874
+129,North Macedonia,0.972
+130,Norway,0.94
+131,Oman,0.885
+132,Pakistan,0.859
+133,Palau,0.732
+134,"Palestine, State of",0.78
+135,Panama,0.733
+136,Papua New Guinea,0.839
+137,Paraguay,0.948
+138,Peru,0.724
+139,Philippines,0.644
+140,Poland,0.971
+141,Portugal,0.854
+142,Qatar,0.826
+143,Romania,0.949
+144,Russian Federation,0.955
+145,Rwanda,0.848
+146,Saint Kitts and Nevis,0.731
+147,Saint Lucia,0.842
+148,Saint Vincent and the Grenadines,0.772
+149,Samoa,0.806
+150,San Marino,0.992
+151,Sao Tome and Principe,0.785
+152,Saudi Arabia,0.908
+153,Senegal,0.943
+154,Serbia,0.958
+155,Seychelles,0.664
+156,Sierra Leone,0.912
+157,Singapore,0.86
+158,Slovakia,0.963
+159,Slovenia,0.937
+160,Solomon Islands,0.767
+161,Somalia,0.9
+162,South Africa,0.772
+163,South Sudan,0.931
+164,Spain,0.843
+165,Sri Lanka,0.564
+166,Sudan,0.933
+167,Suriname,0.983
+168,Sweden,0.993
+169,Switzerland,0.974
+170,Syrian Arab Republic,0.943
+171,Tajikistan,0.985
+172,Tanzania (United Republic of),0.689
+173,Thailand,0.795
+174,Timor-Leste,0.885
+175,Togo,0.854
+176,Tonga,0.725
+177,Trinidad and Tobago,0.813
+178,Tunisia,0.974
+179,Turkey,0.875
+180,Turkmenistan,0.975
+181,Tuvalu,0.84
+182,Uganda,0.751
+183,Ukraine,0.946
+184,United Arab Emirates,0.863
+185,United Kingdom,0.783
+186,United States,0.836
+187,Uruguay,0.832
+188,Uzbekistan,0.969
+189,Vanuatu,0.662
+190,Venezuela (Bolivarian Republic of),0.825
+191,Viet Nam,0.733
+192,Yemen,0.884
+193,Zambia,0.879
+194,Zimbabwe,0.789
